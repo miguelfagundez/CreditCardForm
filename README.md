@@ -1,6 +1,13 @@
 # credit_card_form
 
-A new Flutter project.
+
+A really nice package to handle credit card form in Flutter (include all the validations): [Flutter Credit Card](https://pub.dev/packages/flutter_credit_card).
+
+## Some Visual Results
+
+<p align = "center">
+<img src="/images/01.png" width="250"> <img src="/images/02.png" width="250">
+</p>
 
 ## Getting Started
 
